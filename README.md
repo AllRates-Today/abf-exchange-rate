@@ -32,38 +32,38 @@ The image is rendered live from the keyless endpoint, so it follows the tax auth
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-26 by Australian Border Force — 28 rates. Updated 2026-11-26.</summary>
+<summary>Table as text: published 2026-11-27 by Australian Border Force — 28 rates. Updated 2026-11-27.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| AUD | BRL | reference | 3.9102 |
-| AUD | CAD | reference | 0.9453 |
-| AUD | CHF | reference | 0.5537 |
-| AUD | CNY | reference | 4.4149 |
-| AUD | DKK | reference | 4.5187 |
+| AUD | BRL | reference | 3.8574 |
+| AUD | CAD | reference | 0.9427 |
+| AUD | CHF | reference | 0.5513 |
+| AUD | CNY | reference | 4.4201 |
+| AUD | DKK | reference | 4.518 |
 | AUD | EUR | reference | 0.6046 |
-| AUD | FJD | reference | 1.5144 |
-| AUD | GBP | reference | 0.5054 |
-| AUD | HKD | reference | 5.1965 |
-| AUD | IDR | reference | 12090 |
-| AUD | ILS | reference | 2.2159 |
-| AUD | INR | reference | 61.5 |
-| AUD | JPY | reference | 105.54 |
-| AUD | KRW | reference | 888.54 |
-| AUD | LKR | reference | 220.3 |
-| AUD | MYR | reference | 2.7258 |
-| AUD | NOK | reference | 6.498 |
-| AUD | NZD | reference | 1.209 |
-| AUD | PGK | reference | 2.9164 |
-| AUD | PHP | reference | 42.23 |
-| AUD | PKR | reference | 183.12 |
-| AUD | SBD | reference | 5.3747 |
-| AUD | SEK | reference | 6.7902 |
-| AUD | SGD | reference | 0.8545 |
-| AUD | THB | reference | 22.47 |
-| AUD | TWD | reference | 21.82 |
-| AUD | USD | reference | 0.6627 |
-| AUD | ZAR | reference | 11.6266 |
+| AUD | FJD | reference | 1.5147 |
+| AUD | GBP | reference | 0.5057 |
+| AUD | HKD | reference | 5.2004 |
+| AUD | IDR | reference | 12166 |
+| AUD | ILS | reference | 2.2258 |
+| AUD | INR | reference | 61.26 |
+| AUD | JPY | reference | 105.53 |
+| AUD | KRW | reference | 889.81 |
+| AUD | LKR | reference | 220.5 |
+| AUD | MYR | reference | 2.7314 |
+| AUD | NOK | reference | 6.4994 |
+| AUD | NZD | reference | 1.2079 |
+| AUD | PGK | reference | 2.9199 |
+| AUD | PHP | reference | 42.21 |
+| AUD | PKR | reference | 183.28 |
+| AUD | SBD | reference | 5.3804 |
+| AUD | SEK | reference | 6.7882 |
+| AUD | SGD | reference | 0.8555 |
+| AUD | THB | reference | 22.57 |
+| AUD | TWD | reference | 21.93 |
+| AUD | USD | reference | 0.6634 |
+| AUD | ZAR | reference | 11.6304 |
 
 </details>
 
